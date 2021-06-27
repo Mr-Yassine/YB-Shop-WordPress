@@ -1,0 +1,52 @@
+# Translation of Plugins - PWD WP Favicon - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - PWD WP Favicon - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-04-15 09:02:03+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - PWD WP Favicon - Stable (latest release)\n"
+
+#. Author URI of the plugin
+msgid "http://www.plateformewpdigital.fr"
+msgstr "http://www.plateformewpdigital.fr"
+
+#. Description of the plugin
+msgid "Add custom favicon & Apple touch icon for your website"
+msgstr "Ajoute un favicon personnalisé & une icône Apple touch à votre site"
+
+#. Plugin URI of the plugin
+msgid "http://www.plateformewpdigital.fr/plugins/wp-favicon"
+msgstr "http://www.plateformewpdigital.fr/plugins/wp-favicon"
+
+#. Plugin Name of the plugin
+msgid "PWD WP Favicon"
+msgstr "PWD WP Favicon"
+
+#: classes/plugin.php:84
+msgid "Disable Curved Border & reflective shine for Apple touch icon"
+msgstr "Désactiver le bord incurvé et le reflet brillant pour l'icône Apple Touch"
+
+#: classes/plugin.php:74
+msgid "Add a Apple Touch Icon for admin size 16*16 or 32*32"
+msgstr "Ajouter une icône Apple Touch pour le back-office de taille 16*16 ou 32*32"
+
+#: classes/plugin.php:64
+msgid "Add a Apple Touch Icon for website size 16*16 or 32*32"
+msgstr "Ajouter une icône Apple Touch de taille 16*16 ou 32*32"
+
+#: classes/plugin.php:52
+msgid "Add a favicon for admin size 16*16 or 32*32"
+msgstr "Ajouter un favicon pour le back-office de taille 16*16 ou 32*32"
+
+#: classes/plugin.php:42
+msgid "Add a favicon for website size 16*16 or 32*32"
+msgstr "Ajouter un favicon de taille 16*16 ou 32*32"
+
+#: classes/plugin.php:26 classes/plugin.php:31
+msgid "Favicon"
+msgstr "Favicon"
