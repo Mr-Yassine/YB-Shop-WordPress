@@ -13,15 +13,15 @@ La créatione d'un site WordPress en utilisant des plugins de création de conte
 
 ### Contexte du projet
 
-Le site est divisé en 5 pages principales. 
+Le site contient 5 pages principales. 
 
-les 5 pages :
+les 5 pages sont les suivantes:
 
-  - Home/Index
+  - Home
   - About us
-  - Products
-  - Contact
+  - Store
   - My Account
+  - Contact US
 
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 
