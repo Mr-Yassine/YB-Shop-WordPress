@@ -1,9 +1,39 @@
+# YB-Shop-WordPress
+La créatione d'un site WordPress en utilisant des plugins de création de contenu.
+
+### Les étapes :
+
+  - Téléchargement de WordPress
+  - Installation 
+  - Création d'une base de donées qui sera utilisé par wordpress pour la création de ses tables.
+  - L'authentification à WordPress avec les informations de connexion (Base de données)
+  - Choix du thème
+  - Installation des plugins nécessaires
+
+
+### Contexte du projet
+
+Le site contient 5 pages principales. 
+
+les 5 pages sont les suivantes:
+
+  - Home
+  - About us
+  - Store
+  - My Account
+  - Contact US
+
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
+
+<img src="Mockup.jpg" alt="mockup"/>
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
 	<meta name="viewport" content="width=device-width" />
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	<title>WordPress &#8250; ReadMe</title>
 	<link rel="stylesheet" href="wp-admin/css/install.css?ver=20100228" type="text/css" />
 </head>
 <body>
